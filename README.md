@@ -1,4 +1,4 @@
-# Differential-Privacy-on-Heart-Disease-Dataset
+# Prediction of Heart Disease Using Differential Privacy
 
 
 This repository contains the heart disease dataset and prediction of it using neural networks.
